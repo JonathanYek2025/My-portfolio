@@ -1,0 +1,90 @@
+8 6
+1 0 20 3 1 0 1 0
+1 0 0
+1 1 0
+dagger	Dagger	1 0 0
+0 1 1
+potion	Small Potion	0 0 6
+Slime	7 1 1 0
+0 1 0
+dagger	Dagger	1 0 0
+0 0 0
+0 0 1
+Bat	8 2 0 0
+0 0 1
+Slime	7 3 0 0
+0 0 0
+0 1 0
+buckler	Buckler	0 1 0
+0 0 1
+Slime	6 2 0 0
+0 0 1
+Bat	7 3 0 0
+0 0 1
+Bat	9 3 1 0
+0 0 0
+0 0 1
+Slime	9 3 0 0
+0 0 1
+Slime	7 2 1 0
+0 1 0
+dagger	Dagger	1 0 0
+0 0 1
+Bat	5 3 1 0
+0 0 0
+0 0 1
+Bat	7 2 1 0
+0 1 1
+dagger	Dagger	1 0 0
+Bat	5 3 1 0
+0 1 1
+dagger	Dagger	1 0 0
+Bat	5 1 0 0
+0 0 0
+0 0 1
+Bat	7 3 0 0
+0 1 1
+potion	Small Potion	0 0 6
+Slime	9 3 0 0
+0 0 1
+Slime	6 1 1 0
+0 0 0
+0 1 0
+buckler	Buckler	0 1 0
+0 0 1
+Slime	5 1 0 0
+0 1 1
+potion	Small Potion	0 0 6
+Slime	7 1 1 0
+0 0 0
+0 1 1
+dagger	Dagger	1 0 0
+Bat	6 2 0 0
+0 0 0
+0 0 0
+0 1 0
+potion	Small Potion	0 0 6
+0 0 0
+0 1 0
+potion	Small Potion	0 0 6
+0 0 0
+0 1 0
+buckler	Buckler	0 1 0
+0 1 1
+potion	Small Potion	0 0 6
+Slime	8 3 1 0
+0 0 1
+Bat	6 3 1 0
+0 1 0
+dagger	Dagger	1 0 0
+0 0 0
+0 0 0
+0 0 1
+Slime	7 1 0 0
+0 0 0
+0 0 0
+0 1 0
+buckler	Buckler	0 1 0
+0 1 1
+buckler	Buckler	0 1 0
+Bat	7 1 0 0
